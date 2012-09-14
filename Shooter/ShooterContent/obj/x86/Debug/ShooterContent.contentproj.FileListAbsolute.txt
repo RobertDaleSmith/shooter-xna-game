@@ -1,0 +1,4 @@
+C:\Users\Criner\Desktop\Shooter\Shooter\ShooterContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Shooter\Shooter\Shooter\ShooterContent\obj\x86\Debug\ShooterContent.contentprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\Kinect + XNA Examples\Shooter\Shooter\Shooter\ShooterContent\obj\x86\Debug\ShooterContent.contentprojResolveAssemblyReference.cache
+C:\Users\Robert\Dropbox\UH\Game Dev\Project 1\Shooter\Shooter\ShooterContent\obj\x86\Debug\ShooterContent.contentprojResolveAssemblyReference.cache
